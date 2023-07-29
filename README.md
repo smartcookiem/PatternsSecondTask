@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/eimgq39rxe3yisnp?svg=true)](https://ci.appveyor.com/project/smartcookiem/patternssecondtask)
